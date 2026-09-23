@@ -1,7 +1,7 @@
 package org.example;
 
 
-public class Pukikaki {
+public class MainMain {
     public static void main(String[] args) {
 //        Button btn = new Button();
 //        btn.click();
